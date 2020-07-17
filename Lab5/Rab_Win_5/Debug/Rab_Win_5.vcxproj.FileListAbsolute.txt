@@ -1,0 +1,3 @@
+D:\Делааем\Opa\мое\ОП\Progi\Rab_Win_5\Rab_Win_5\Debug\Rab_Win_5.vcxprojAssemblyReference.cache
+D:\Делааем\Opa\мое\ОП\Progi\Rab_Win_5\Rab_Win_5\Debug\RabWin5.MyForm.resources
+D:\Делааем\Opa\мое\ОП\Progi\Rab_Win_5\Rab_Win_5\Debug\Rab_Win_5.vcxproj.GenerateResource.cache
